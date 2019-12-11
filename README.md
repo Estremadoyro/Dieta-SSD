@@ -6,3 +6,6 @@ Contribuidores:
 - Andrea Castro (Diseño del modelo, implementación en Lingo)
 - Ronald Hualpa (Diseño Access DB, modelo, Lingo, VBA)
 - Ingrid Rios, Fabrizio Artica, Iver Catro (Alimentación de DB)
+
+Imagen.
+https://gyazo.com/f4416aac86b6704225d7601aba27c5e8
